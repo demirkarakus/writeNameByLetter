@@ -1,3 +1,3 @@
 import modules
 
-modules.primeNumbers()
+modules.daysOfYear(3,12,2021)
