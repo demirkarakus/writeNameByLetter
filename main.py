@@ -1,4 +1,4 @@
-name = input("Adınız : ")
+name = input("Please, Write your name : ")
 
 count=0
 
@@ -6,4 +6,4 @@ while count < len(name):
   print(name[count])
   count+=1
 else:
-  print("Adınızın harflerini alt alta yazdırdım.")
+  print("Everything Ok")
